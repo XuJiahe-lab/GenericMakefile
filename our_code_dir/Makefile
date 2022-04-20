@@ -1,5 +1,5 @@
 output: test.o
-	g++ teat.c -o output
+	g++ test.c -o output
 
 target: dependencies 
 	action
