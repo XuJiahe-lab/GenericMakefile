@@ -1,8 +1,5 @@
-output: name.o
-	g++ name.cpp -o output
+output: test.o
+	g++ teat.c -o output
 
-clean:
-	rm *.o output
-	
 target: dependencies 
 	action
