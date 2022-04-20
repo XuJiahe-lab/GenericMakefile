@@ -15,6 +15,8 @@ int main(void)
     int n;
     double s[100];
     double w = 0;
+    
+    printf("Jiahe-Xu 1917494027");
 
     for (n = 0; n < 100 ; n++)
     {
